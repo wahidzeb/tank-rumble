@@ -1,0 +1,42 @@
+{
+  "id": "/tank-rumble/",
+  "name": "Tank Rumble",
+  "short_name": "Tank Rumble",
+  "description": "Tank Rumble by Zaib: drive a cute toy tank that fires automatically, pop waves of goofy robots into bolts and stars, beat big boss bots, pick power perks and upgrade your tanks in the garage. A kid-friendly mobile tank game.",
+  "lang": "en",
+  "start_url": "/tank-rumble/?source=pwa",
+  "scope": "/tank-rumble/",
+  "display": "standalone",
+  "orientation": "any",
+  "theme_color": "#1d2b4a",
+  "background_color": "#1d2b4a",
+  "categories": [
+    "games"
+  ],
+  "icons": [
+    {
+      "src": "/tank-rumble/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/tank-rumble/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/tank-rumble/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/tank-rumble/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
